@@ -1,5 +1,7 @@
---- 
+---
 :major: 0
 :minor: 12
 :build: 2
+:state: galileo
+:iteration: 1
 :name: Alnilam
