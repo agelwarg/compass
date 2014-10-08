@@ -1,6 +1,5 @@
 module Compass
   module Core
-    # This file intentionally does nothing.
-    # The build process will generate a VERSION constant here.
+    VERSION = "1.0.1.galileo.1"
   end
 end

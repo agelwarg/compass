@@ -1,4 +1,4 @@
 module Compass
-  # This file intentionall does nothing.
-  # The compass build scripts put the release VERSION constant here.
+  VERSION = "1.0.1.galileo.1"
+  VERSION_NAME = "Polaris"
 end
